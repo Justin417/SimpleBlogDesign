@@ -19,3 +19,4 @@ Some things I need to do for this project...
 * Submit this design to [Anchor Themes Website](http://anchorthemes.com/)
 * Make it more ~fancy~
 
+![logo thingy](https://www.jgndata.biz/jgoetz/file2/gitblog.png)
