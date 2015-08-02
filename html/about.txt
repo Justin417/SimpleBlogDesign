@@ -1,5 +1,0 @@
-Theme name:    Simply Blue
-Description:   Super Simple Layout, built on bootstrap 3.
-Author name:   Justin Goetz
-Author site:   https://www.justingoetz.net
-License:       https://www.justingoetz.net/license
