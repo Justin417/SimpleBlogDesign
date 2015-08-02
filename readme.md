@@ -20,3 +20,5 @@ Some things I need to do for this project...
 * ~~Convert basic HTML and CSS to work with Anchor CMS~~ √ Done
 * Submit this design to [Anchor Themes Website](http://anchorthemes.com/)
 * Make it more ~fancy~
+
+![Screenshot](<https://raw.githubusercontent.com/Justin417/SimpleBlogDesign/master/Screen%20Shots/screencap_1.png>)
