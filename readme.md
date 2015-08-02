@@ -15,5 +15,3 @@ Project will be maintained by [Justin Goetz](<https://www.justingoetz.net>).
 Some things I need to do for this project... \* \~\~Convert basic HTML and CSS
 to work with Anchor CMS\~\~ \* Submit this design to [Anchor Themes
 Website](<http://anchorthemes.com/>) \* Make it more fancy
-
-![logo thingy](<https://www.jgndata.biz/jgoetz/file2/gitblog.png>)
